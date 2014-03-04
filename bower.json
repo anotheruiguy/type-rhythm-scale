@@ -1,0 +1,15 @@
+{
+  "name": "aug_typography",
+  "version": "0.1.0",
+  "authors": [
+    "Dale Sande <dale.sande@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "A commonly used series of typography mixins and functions",
+  "main": "_typography.scss",
+  "license": "MIT"
+}
