@@ -1,4 +1,4 @@
-# Typography makes like better
+# Typography makes life better
 
 A commonly used series of typography mixins and functions
 
